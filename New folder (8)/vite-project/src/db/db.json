@@ -1,0 +1,31 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "john_doe",
+        "password": "hashedpassword123",
+        "email": "john@example.com",
+        "createdAt": "2024-05-12T08:00:00.000Z",
+        "profileImg": "",
+        "balance": 0,
+        "role": "client",
+        "basketItems": []
+      },
+      {
+        "id": 2,
+        "username": "jane_smith",
+        "password": "hashedpassword456",
+        "email": "jane@example.com",
+        "createdAt": "2024-05-12T08:30:00.000Z",
+        "profileImg": "",
+        "balance": 100,
+        "role": "admin",
+        "basketItems": []
+      }
+    ],
+    "messages": [],
+    "orders": [],
+    "categories": [],
+    "products": []
+  }
+  
